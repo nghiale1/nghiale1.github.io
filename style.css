@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    margin-top: 20px;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 150px;
+    float: right;
+    border-radius: 80px;
+    position: absolute;
+    right: 4%;
+}
+.row{
+    margin-left: 20px!important;
+}
+.address{
+    font-size: larger;
+}
+.mail a{
+    color:black;
+}
+.facebook{
+    color: #212529;
+
+}
+.intro{
+    width: 100%;
+    background-color: #ccdefd;
+    padding: 5px 10px;
+      margin-top: 10px;
+}
+.intro p{
+    margin-bottom: 0;
+}
+span {
+    margin-right: 17px;
+}
+.title{
+    color: #FF5722;
+    display: inline;
+    margin-right: 10px;
+}
+/* .intro{
+    background-color: #ccdefd;
+} */
+.hr{
+display: inline-block;
+width: 85%;
+/* max-width: 85%; */
+vertical-align: middle;
+line-height: 16px;
+border-top: 2px solid rgba(0,0,0,0.05);
+}
+.lv1 {
+    margin-left: 20px;
+}
+.lv2 {
+    margin-left: 20px;
+    list-style: none;
+}
+.lv3 {
+    margin-left: 20px;
+    list-style: none;
+}
+.skill p{
+    margin-bottom: 5px;
+}
+.skill table{
+    width: 60%;
+    height: 100px;
+}
+.skill {
+    margin-left: 20px;
+}
+.col-md-3{
+    font-weight: 500;
+}
