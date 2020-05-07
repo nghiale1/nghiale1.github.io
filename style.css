@@ -12,10 +12,13 @@ img {
     float: right;
     border-radius: 80px;
     position: absolute;
-    right: 4%;
+    right: 0%;
 }
 .row{
     margin-left: 20px!important;
+}
+.info{
+    position: relative;
 }
 .address{
     font-size: larger;
